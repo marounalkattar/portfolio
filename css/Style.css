@@ -174,7 +174,7 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../assets/home_assistant_jpg.jpg');
+    background: url('../assets/project-photo/car\ robot.jpeg');
     background-size: cover;
     height: 110vh;
     display: flex;
