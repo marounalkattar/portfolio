@@ -625,5 +625,40 @@ footer.footer .move-up span:hover{
     }
 
 }
+@media screen and (min-device-width: 300px) and (max-device-width: 800px) { 
+
+    iframe{
+
+        width: 100% !important;
+    }
+
+    img.img1{
+
+        width: 100% !important;
+
+    }
+
+    
+    section.site-title{
+
+        background-repeat: no-repeat !important;
+       
+        background-size: contain !important;
+        height: 200px !important;
+
+    }
+
+    .site-background.aos-init.aos-animate{
+
+        padding:0px !important ;
+    }
+
+    pre{
+
+        margin-left: -200px !important;
+       
+    }
+
+}
 
 /*        x      Viewport less then or equal to 520px       x     */
